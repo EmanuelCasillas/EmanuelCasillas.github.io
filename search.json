@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Latest Posts",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Why is Daniel Hemric\n\n\n\n\n\n\nnascar\n\n\nracing\n\n\nracecar\n\n\n\n\n\n\n\n\n\nApr 14, 2025\n\n\nEmanuel Casillas\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 31, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 28, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/Why-is-Daniel-Hemric/index.html",
+    "href": "posts/Why-is-Daniel-Hemric/index.html",
+    "title": "Why is Daniel Hemric",
+    "section": "",
+    "text": "Write a blog post about the topic here"
   }
 ]
